@@ -671,6 +671,7 @@ body {
 }
 
 .slider .container {
+  overflow: hidden;
   height: 100%;
   position: relative;
   padding: 100px 15px;

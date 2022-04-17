@@ -829,6 +829,7 @@ body {
   background-image: url(../img/hit-slider-1-bg.png); }
 
 .hit-slider-1 {
+  overflow: hidden;
   position: relative;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1005,6 +1006,7 @@ body {
   background-image: url(../img/hit-slider-2-bg.png); }
 
 .hit-slider-2 {
+  overflow:hidden;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;

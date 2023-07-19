@@ -132,10 +132,7 @@ if(filterBtnNew){
 }
 
 new Swiper('.slider-container', {
-   navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev'
-   },
+   spaceBetween: 20,
    pagination: {
       el: '.slider-pagination',
       clickable: true,
